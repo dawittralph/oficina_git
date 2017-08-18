@@ -14,6 +14,7 @@ public class Oficina_git {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Primeira linha");
+        JOptionPane.showMessageDialog(null, "Segunda linha");
     }
     
 }
