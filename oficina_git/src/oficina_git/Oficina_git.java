@@ -15,6 +15,7 @@ public class Oficina_git {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Primeira linha");
         JOptionPane.showMessageDialog(null, "Segunda linha");
+        JOptionPane.showMessageDialog(null, "Quarta linha");
     }
     
 }
